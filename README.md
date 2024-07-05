@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemphempnbTBsbmUzZW10a3doYno2c3c3bTNiZ2RxMXY0MWlieWlrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemphempnbTBsbmUzZW10a3doYno2c3c3bTNiZ2RxMXY0MWlieWlrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif"  />
 
 ###
 
@@ -14,9 +14,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="left">Socials</h4>
+<h2 align="left"># Socials</h2>
 
 ###
 
@@ -31,11 +29,11 @@
 
 ###
 
-<h4 align="left">Tech Stack</h4>
+<h2 align="left"># Tech Stack</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -90,3 +88,7 @@
 </div>
 
 ###
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=piyushhpatel&label=VIEWS" />
+</div>
