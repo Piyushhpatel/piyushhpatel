@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/piyushpatell/">
+  <a href="#">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/astraphiliaa">
